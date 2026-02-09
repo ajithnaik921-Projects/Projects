@@ -34,3 +34,32 @@ Dashboard Features
 - MIS reporting
 - Data analysis and visualization
 - Business insight generation
+
+
+
+Forecast vs Actual Performance Analysis (Power BI)
+
+Business Problem
+An e-commerce company observed strong revenue growth but declining profitability. This project analyzes Actual vs Budget vs Forecast performance to identify where and why profit underperformed.
+
+Dataset
+-Actuals, Budget, and Forecast data across Region and Category
+-Time period: Jan 2023 – Oct 2024
+
+Key KPIs
+-Actual Revenue vs Budget Revenue
+-Revenue Variance (%)
+-Actual Profit vs Budget Profit
+-Profit Variance (%)
+
+Key Insights
+-Revenue growth is primarily driven by the South region
+-Profit consistently underperformed budget across 2024
+-South Mid-Market shows the largest margin erosion
+-Fashion and Grocery categories contribute most to profit variance
+
+Tools & Skills
+-Power BI
+-DAX (Time intelligence, variance analysis)
+-Data modeling (Star schema)
+-Business performance analysis
